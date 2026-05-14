@@ -1,6 +1,7 @@
 {
   "meta": {
     "name": "Keiyoushi Dev",
-    "website": "https://github.com/Starmania/extensions-dev"
+    "website": "https://github.com/Starmania/extensions-dev",
+    "signingKeyFingerprint": "fa1901a64a45142286ebc13752ad283098ff5597cf2e3ef713aea47c9ab496bf"
   }
 }
